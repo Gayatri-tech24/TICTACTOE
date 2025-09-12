@@ -19,7 +19,7 @@ It takes in the player input from the user via the console and updates the move 
 2. Open the project in your IDE (VS Code, IntelliJ, or Eclipse). <br>
 3. Complie and run the main file <br>
    javac tictactoe.java <br>
-   java tiictactoe <br>
+   java tictactoe <br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Author: <br>
 Gayatri Arvind Gundad
