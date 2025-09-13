@@ -21,21 +21,21 @@ It takes in the player input from the user via the console and updates the move 
    javac tictactoe.java <br>
    java tictactoe <br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Preview:
-Here's how the game looks:
-<img width="425" height="421" alt="image" src="https://github.com/user-attachments/assets/721be922-064c-4b0b-baba-5355c631f7cb" />
+Preview: <br>
+Here's how the game looks: <br>
+<img width="425" height="421" alt="image" src="https://github.com/user-attachments/assets/721be922-064c-4b0b-baba-5355c631f7cb" /> <br>
 
-<img width="355" height="143" alt="image" src="https://github.com/user-attachments/assets/cefaa706-07fd-4b2e-9246-c40953cd8c1a" />
+<img width="355" height="143" alt="image" src="https://github.com/user-attachments/assets/cefaa706-07fd-4b2e-9246-c40953cd8c1a" /> <br>
 
-<img width="418" height="417" alt="image" src="https://github.com/user-attachments/assets/7de00ecd-dddf-42f5-bb35-1420c3736f4b" />
+<img width="418" height="417" alt="image" src="https://github.com/user-attachments/assets/7de00ecd-dddf-42f5-bb35-1420c3736f4b" /> <br>
 
-<img width="273" height="177" alt="image" src="https://github.com/user-attachments/assets/cc775259-ca28-4607-9c24-bd6187bedcad" />
+<img width="273" height="177" alt="image" src="https://github.com/user-attachments/assets/cc775259-ca28-4607-9c24-bd6187bedcad" /> <br>
 
-<img width="421" height="417" alt="image" src="https://github.com/user-attachments/assets/3be2f8ad-4d46-4586-8423-64d4d0bf3ae4" />
+<img width="421" height="417" alt="image" src="https://github.com/user-attachments/assets/3be2f8ad-4d46-4586-8423-64d4d0bf3ae4" /> <br>
 
-<img width="258" height="239" alt="image" src="https://github.com/user-attachments/assets/65f2fb5e-9e88-4ca9-b857-55e2cec192d5" />
+<img width="258" height="239" alt="image" src="https://github.com/user-attachments/assets/65f2fb5e-9e88-4ca9-b857-55e2cec192d5" /> <br>
 
-<img width="412" height="420" alt="image" src="https://github.com/user-attachments/assets/295de797-6d0f-48bc-b2da-8e09b273f779" />
+<img width="412" height="420" alt="image" src="https://github.com/user-attachments/assets/295de797-6d0f-48bc-b2da-8e09b273f779" /> <br>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
