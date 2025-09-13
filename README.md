@@ -17,9 +17,11 @@ It takes in the player input from the user via the console and updates the move 
     ```bash <br>
     git clone https://github.com/Gayatri-tech24/TICTACTOE.git 
 2. Open the project in your IDE (VS Code, IntelliJ, or Eclipse). <br>
-3. Complie and run the main file <br>
-   javac tictactoe.java <br>
-   java tictactoe <br>
+3. Compile and run the main file:
+    ```bash
+    javac tictactoe.java
+    java tictactoe
+<br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Preview: <br>
 Here's how the game looks: <br>
